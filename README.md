@@ -1,2 +1,1 @@
-# I-C-S
-Image Classification System
+# Image Classification System
