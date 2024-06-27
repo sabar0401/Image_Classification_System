@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification Model Documentation
+# Image Classification Model Documentation
 
 ## Model Architecture
 
